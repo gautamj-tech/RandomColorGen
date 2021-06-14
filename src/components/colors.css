@@ -1,0 +1,7 @@
+.center {
+  margin: auto;
+  right: 100px;
+}
+.del:hover {
+  background-color: yellow;
+}
