@@ -17,7 +17,8 @@
   transition-duration: 0.4s;
   cursor: pointer;
   width: 16rem;
-  margin-top: 5px;
+  margin-top: 10px;
+  margin-bottom:25px;
 }
 .button4 {
   background-color: white;
